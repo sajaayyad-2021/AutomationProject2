@@ -1,0 +1,33 @@
+{
+  "baseURL": "https://opensource-demo.orangehrmlive.com",
+  "auth": {
+    "userName": "",
+    "passWord": ""
+  },
+  "defaults": {
+    "firstName": "",
+    "middleName": "",
+    "lastName": ""
+  },
+  "leaveSearch": {
+    "fromDate": "",
+    "toDate": "",
+    "employeeName": "",
+    "status": "",
+    "leaveType": "",
+    "subUnit": ""
+  },
+  "recruitment": {
+    "candidateFirstName": "",
+    "candidateMiddleName": "",
+    "candidateLastName": "",
+    "vacancy": "",
+    "email": "",
+    "contactNumber": "",
+    "resumePath": "",
+    "keywords": "",
+    "dateOfApplication": "",
+    "notes": "",
+    "consent": false
+  }
+}

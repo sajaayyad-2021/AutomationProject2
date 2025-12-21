@@ -1,0 +1,34 @@
+{
+"baseURL": "https://opensource-demo.orangehrmlive.com",
+  "auth": {
+    "userName": "WRONG_USER_123",
+    "passWord": "admin123"
+  },
+
+  "defaults": {
+    "firstName": "Saja",
+    "middleName": "Yaser",
+    "lastName": "Ayyad"
+  },
+  "leaveSearch": {
+    "fromDate": "",
+    "toDate": "",
+    "employeeName": "",
+    "status": "",
+    "leaveType": "",
+    "subUnit": ""
+  },
+  "recruitment": {
+    "candidateFirstName": "",
+    "candidateMiddleName": "",
+    "candidateLastName": "",
+    "vacancy": "",
+    "email": "",
+    "contactNumber": "",
+    "resumePath": "",
+    "keywords": "",
+    "dateOfApplication": "",
+    "notes": "",
+    "consent": false
+  }
+}

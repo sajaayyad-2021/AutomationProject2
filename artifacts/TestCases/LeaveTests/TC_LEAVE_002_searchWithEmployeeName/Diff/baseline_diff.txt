@@ -1,0 +1,6 @@
+EXPECTED: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+ACTUAL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+RESULT: PASS
+EXPECTED: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+ACTUAL: https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+RESULT: PASS
